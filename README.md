@@ -71,3 +71,6 @@ Before you begin, ensure you have met the following requirements:
    - Press `0` to switch to the Random AI.
    - Press `1` to switch to the Intelligent AI.
 3. To reset the game, press `r`.
+
+## Author 👨‍💻
+- Author: musaddique333 [![GitHub](https://img.shields.io/badge/GitHub-musaddique333-brightgreen)](https://github.com/musaddique333)
