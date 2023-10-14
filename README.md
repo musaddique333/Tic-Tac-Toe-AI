@@ -9,7 +9,7 @@
 
 This is a TIC TAC TOE game with AI. It allows you to play against an AI opponent.
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<div align="center">
     <img src="./images/Screenshot 2022-11-12 at 12.44.33 PM.png" alt="Image 1" width="30%" />
     <img src="./images/Screenshot 2022-11-12 at 12.44.48 PM.png" alt="Image 2" width="30%" />
     <img src="./images/Screenshot 2022-11-12 at 12.45.02 PM.png" alt="Image 3" width="30%" />
